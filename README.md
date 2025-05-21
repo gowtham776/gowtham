@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website, built to showcase my skills, projects, and experience as a developer. Explore the work I've done, the technologies I use, and how to get in touch!
 
-🔗 [Live Site]([https://sgowtham.netlify.app/)
+🔗 [Live Site]([https://sgowtham.netlify.app/])
 
 ---
 
